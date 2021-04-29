@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [David a.k.a Sn4pe a.k.a Fadón](http://davidfadon.com/)
 
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://davidfadon.com)](http://davidfadon.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sn4pe_)](https://twitter.com/sn4pe_) 
+[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://davidfadon.com)](https://sn4pe.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sn4pe_)](https://twitter.com/sn4pe_) 
 
 ### Hello there! &nbsp; ![GitHub followers](https://img.shields.io/github/followers/sn4pe) ![GitHub User's stars](https://img.shields.io/github/stars/sn4pe)
 uwu
