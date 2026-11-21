@@ -1,21 +1,6 @@
-## Hey 👋, I'm [David a.k.a Sn4pe a.k.a Fadón](http://davidfadon.com/)
+I'm David. I ship software on a timetable I made up.
 
-[![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=http://davidfadon.com)](https://sn4pe.com) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/sn4pe_)](https://twitter.com/sn4pe_) 
-
-### Hello there! &nbsp; ![GitHub followers](https://img.shields.io/github/followers/sn4pe) ![GitHub User's stars](https://img.shields.io/github/stars/sn4pe)
-uwu
-
-<!--
-**Sn4pe/Sn4pe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="board/dark.svg">
+  <img src="board/light.svg" alt="Departure board: my repositories as trains, the latest commit in each, a page of jokes and an ASCII steam train">
+</picture>
